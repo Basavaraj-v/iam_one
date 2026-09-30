@@ -11,3 +11,25 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%7C+MERN+Stack;Building+Real+Production+Apps+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%2B+TypeScript;Turning+Ideas+into+Deployed+Products;Always+Learning.+Always+Shipping." />
+Name        : Basavaraj v
+Role        : Full-Stack Web Developer
+Education   : Computer Science Engineering (2027 batch)
+Based In    : India 🇮🇳
+
+Stack:
+  Frontend  : React · javascript  · Tailwind CSS  .HTML
+  Backend   : Node.js · Express.js · REST APIs
+  Database  : MongoDB · MySQL
+  Tools     : Git · GitHub · VS Code
+
+What I build:
+  - Full-stack MERN web applications
+  - REST APIs with authentication & deployment
+  - AI-integrated web solutions
+
+Currently:
+  - Sharpening DSA & system design fundamentals
+  - Deepening backend architecture knowledge
+  - Preparing for campus placements (2027)
+
+Mindset     : Ship fast. Learn from it. Ship better.
